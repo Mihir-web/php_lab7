@@ -1,0 +1,2 @@
+[2024-10-29T01:50:57.107304+00:00] appLogger.INFO: This is an informational log entry. [] []
+[2024-10-29T01:50:57.124317+00:00] appLogger.ERROR: This is an error log entry. [] []
