@@ -1,0 +1,11 @@
+{
+    "name": "hites/php_lab7",
+    "require": {
+        "monolog/monolog": "^2.9"
+    },
+    "autoload": {
+        "psr-4":{
+            "App\\": "src/App/"
+        }
+    }
+}
